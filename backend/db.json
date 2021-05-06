@@ -1,0 +1,76 @@
+{
+  "visits": [
+    {
+      "country": "DE",
+      "dateFrom": "2010-02-05",
+      "dateUntil": "2010-03-05",
+      "id": 1
+    },
+    {
+      "country": "ZA",
+      "dateFrom": "2015-08-07",
+      "dateUntil": "2015-08-20",
+      "id": 2
+    },
+    {
+      "country": "CH",
+      "dateFrom": "2018-10-05",
+      "dateUntil": "2018-10-08",
+      "id": 3
+    },
+    {
+      "country": "NO",
+      "dateFrom": "2019-09-05",
+      "dateUntil": "2019-10-08",
+      "id": 4
+    },
+    {
+      "country": "NZ",
+      "dateFrom": "2019-10-10",
+      "dateUntil": "2019-11-08",
+      "id": 5
+    },
+    {
+      "country": "DE",
+      "dateFrom": "2020-10-02",
+      "dateUntil": "2020-11-03",
+      "id": 6
+    },
+    {
+      "country": "FR",
+      "dateFrom": "2021-10-11",
+      "dateUntil": "2021-04-06",
+      "id": 7
+    },
+    {
+      "country": "BJ",
+      "dateFrom": "2021-12-01",
+      "dateUntil": "2021-12-31",
+      "id": 8
+    },
+    {
+      "country": "DE",
+      "dateFrom": "2010-02-05",
+      "dateUntil": "2010-03-05",
+      "id": 9
+    },
+    {
+      "country": "DE",
+      "dateFrom": "2021-04-06",
+      "dateUntil": "2021-04-013",
+      "id": 10
+    },
+    {
+      "country": "VC",
+      "dateFrom": "2021-04-09",
+      "dateUntil": "2021-06-022",
+      "id": 20
+    },
+    {
+      "country": "DE",
+      "dateFrom": "2021-05-06",
+      "dateUntil": "2021-05-25",
+      "id": 22
+    }
+  ]
+}
