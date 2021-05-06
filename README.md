@@ -3,6 +3,13 @@
 ## Project setup
 ```
 npm install
+cd /backend npm install
+```
+
+## Start backendserver
+```
+cd /backend npm install
+npm run serve
 ```
 
 ### Compiles and hot-reloads for development
